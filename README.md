@@ -5,7 +5,7 @@
 
 ### :man_technologist: About Me :💻I am a  Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Lebanon living in Berlin-Germany.
 
-- :telescope: I have been graduated as a Data Scientist  at Spiced Academy-Berlin.
+- :telescope: I am looking for a Data Science Job.
 
 - :seedling: Exploring Machine Learning, Deep Learning and requirements needed for a Data Scientist.
 
