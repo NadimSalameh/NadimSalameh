@@ -5,7 +5,7 @@
 
 ### :man_technologist: About Me :💻I am a  Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Lebanon living in Berlin-Germany.
 
-- :telescope: I’m learning Data Science at Spiced Accademy-Berlin, and I will be graduating in july 2022 from the Bootcamp.
+- :telescope: I have been graduated as a Data Scientist  at Spiced Academy-Berlin.
 
 - :seedling: Exploring Machine Learning, Deep Learning and requirements needed for a Data Scientist.
 
