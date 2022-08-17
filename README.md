@@ -3,7 +3,7 @@
 </div> 
 ---
 
-### :man_technologist: About Me :💻I am a  Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Lebanon living in Berlin-Germany.
+### :man_technologist: About Me :💻I am a  Data Scientist from Lebanon living in Berlin-Germany.
 
 - :telescope: I am looking for a Data Science Job.
 
