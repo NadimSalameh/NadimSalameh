@@ -5,7 +5,7 @@
 
 ### :man_technologist: About Me :💻I am a  Data Scientist from Lebanon living in Berlin-Germany.
 
-- :telescope: I am looking for a Data Science Job.
+- :telescope: I am looking for a job in Data Science.
 
 - :seedling: Exploring Machine Learning, Deep Learning and requirements needed for a Data Scientist.
 
